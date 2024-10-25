@@ -144,7 +144,10 @@ span {
   padding-bottom: 10px;
 }
 
-.students {
+#get-involved article {
+    display: flex;
+    flex-direction: column;
+   align-items: center;
 }
 
 .homme {
@@ -153,6 +156,10 @@ span {
   width: 100px;
   height: 100px;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+
 }
 
 footer{
