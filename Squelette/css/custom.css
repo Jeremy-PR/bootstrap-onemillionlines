@@ -93,13 +93,37 @@ nav ul li a {
     border-radius: 5px;
     padding-left: 10px;
     padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     
 }
 span{
     font-weight: 900;
 }
 
+#who{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    h2{
+        color: #d9534f;
+        padding-bottom: 10px;
+    }
+}
 
+.logowwa{
+    width: 70%;  
+}
 
+.underline-text{
+    text-decoration: underline;
+  text-underline-offset: 10px;
+}
+.orange{
+    color: #d9534f;
+}
 
 
