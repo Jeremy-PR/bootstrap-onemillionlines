@@ -5,16 +5,7 @@
   padding: 0;
 }
 
-/* Responsive Styling */
 
-@media (max-width: 1199px) {
-}
-
-@media (max-width: 991px) {
-}
-
-@media (max-width: 767px) {
-}
 
 :root {
   --primary-color: #f74c3c;
@@ -215,4 +206,13 @@ footer{
     display: flex;
   justify-content:center
 }
+/* Responsive Styling */
 
+@media (max-width: 1199px) {
+}
+
+@media (max-width: 991px) {
+}
+
+@media (max-width: 767px) {
+}
